@@ -6,11 +6,20 @@ My self directed curriculum for learning ML for drug discovery.
 Building neural nets from scratch to learn the fundamentals.
 
 - [x] [micrograd](courses/zero-to-hero/implement_backpropagation.ipynb/), backprop from scratch  
-- [ ] makemore 1, bigram language model  
+- [x] [makemore 1](courses/zero-to-hero/bigram.ipynb), bigram language model  
 - [ ] makemore 2, MLP  
 - [ ] makemore 3, activations, gradients, BatchNorm   
 - [ ] makemore 4, backprop by hand ("backprop ninja")  
 - [ ] makemore 5, WaveNet-style hierarchical model  
 - [ ] Let's build GPT, my first transformer, from scratch  
 
-![progress](https://img.shields.io/badge/progress-1%2F7-blue)
+![progress](https://img.shields.io/badge/progress-2%2F7-blue)
+
+# Move course here, once completed.
+<!-- <details>
+<summary>✅ Completed: Zero to Hero (7/7)</summary>
+
+- [x] micrograd
+- [x] ...
+
+</details> -->
