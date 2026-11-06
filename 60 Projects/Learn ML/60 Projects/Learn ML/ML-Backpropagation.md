@@ -5,3 +5,5 @@ Backpropagation works by applying the chain rule iteratively. In an expression l
 …but often an analytical expression is very easy to implement.
 
 >[!important] It’s just a recursive application of the chain rule
+
+
