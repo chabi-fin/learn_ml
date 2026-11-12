@@ -9,7 +9,7 @@ Building neural nets from scratch to learn the fundamentals.
 - [x] [makemore 1](courses/zero-to-hero/bigram_makemore.ipynb), bigram language model  
 - [x] [makemore 2](courses/zero-to-hero/mlp_makemore.ipynb), MLP  
 - [x] [makemore 3](courses/zero-to-hero/mlp2_makemore.ipynb), activations, gradients, BatchNorm   
-- [ ] makemore 4, backprop by hand ("backprop ninja")  
+- [ ] [makemore 4](courses/zero-to-hero/backprop_makemore.ipynb), backprop by hand ("backprop ninja")  
 - [ ] makemore 5, WaveNet-style hierarchical model  
 - [ ] Let's build GPT, my first transformer, from scratch  
 
